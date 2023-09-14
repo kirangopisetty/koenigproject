@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08-BROWSER-TABS-GET-WINDOW-TITLE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2c206c9-8b18-4102-a7e4-5fa52db66f3b</testCaseGuid>
+</TestCaseEntity>

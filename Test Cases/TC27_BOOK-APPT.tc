@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case deals with book appointment activities of the AUT</description>
+   <name>TC27_BOOK-APPT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a8a7c1d-5353-4b84-a242-5ccd987410b0</testCaseGuid>
+</TestCaseEntity>

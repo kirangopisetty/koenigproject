@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS3-CURA-DDT</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>41cbf8e5-832d-4e35-bd9d-2ac692ab25b7</testSuiteGuid>
+   <testCaseLink>
+      <guid>e827a4c3-b498-4079-9475-4abfafd752db</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC33-CURA-VARIABLES-DDT</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3c8f8a2b-d8cf-47ec-ac3f-fb345e15e5c4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/healthcareTestData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>3c8f8a2b-d8cf-47ec-ac3f-fb345e15e5c4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UN</value>
+         <variableId>daeec78d-e554-4439-9f48-6ef2f50c67f3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3c8f8a2b-d8cf-47ec-ac3f-fb345e15e5c4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PWD</value>
+         <variableId>0da0b86a-c5bb-4e5f-9e1f-c2dcc18f6dc5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3c8f8a2b-d8cf-47ec-ac3f-fb345e15e5c4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Facility</value>
+         <variableId>d984b3df-7750-46e5-9bef-a7e3c6c74d0b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3c8f8a2b-d8cf-47ec-ac3f-fb345e15e5c4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>VisitDate</value>
+         <variableId>8d2eda1b-8918-4ffc-8ce7-d1093b5a9016</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3c8f8a2b-d8cf-47ec-ac3f-fb345e15e5c4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Comment</value>
+         <variableId>a89926b5-105b-492b-abcf-bbfaf4046b27</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

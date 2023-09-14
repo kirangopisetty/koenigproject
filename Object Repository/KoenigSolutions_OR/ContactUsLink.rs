@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ContactUsLink</name>
+   <tag></tag>
+   <elementGuidId>4242a40c-f0d5-488f-a145-6285b0b48b0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='top-navi']/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e976c0c2-996a-45b1-821c-4e425c2604e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/contact</value>
+      <webElementGuid>def14b78-21fc-49aa-a982-76af2b673fb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact Us</value>
+      <webElementGuid>b237eeb6-9c59-4e5a-a6e9-b52133d7c20c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navi&quot;)/li[4]/a[1]</value>
+      <webElementGuid>cc01f6f3-a03a-461f-a920-a452900d53ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='top-navi']/li[4]/a</value>
+      <webElementGuid>4f52bd44-f31f-4518-b70f-dee00f9dc9dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Contact Us')]</value>
+      <webElementGuid>e1fca82c-9129-4ec0-a46b-631eb37df4bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Partners'])[1]/following::a[1]</value>
+      <webElementGuid>b759cf0a-4f5e-49a7-8a28-416cd6eeb254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rare Courses'])[1]/following::a[2]</value>
+      <webElementGuid>3c19dc68-c1f8-466a-9d5c-139f1d01ddcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::a[1]</value>
+      <webElementGuid>ad728868-2af2-498a-aacf-c63f03aeea98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About us'])[3]/preceding::a[2]</value>
+      <webElementGuid>e557fa5b-475e-4f41-a04e-f4cae0fd68b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/contact')]</value>
+      <webElementGuid>c7eac3a4-707a-42b7-befe-158acdc7c8ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[4]/a</value>
+      <webElementGuid>1d2dce33-b376-4853-911f-7b3003572632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/contact' and (text() = 'Contact Us' or . = 'Contact Us')]</value>
+      <webElementGuid>8013086d-a258-406b-9573-f8f8a66eb381</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

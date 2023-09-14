@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case navigates the user on a given website</description>
+   <name>TC01-WEBSITE-NAVIGATION</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65940a4b-2e5c-4950-b58e-d120570eb81f</testCaseGuid>
+</TestCaseEntity>

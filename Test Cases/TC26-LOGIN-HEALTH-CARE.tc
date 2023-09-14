@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case deals with login activities of the AUT</description>
+   <name>TC26-LOGIN-HEALTH-CARE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38377db1-bc8e-4a57-a00f-bec7014b9b60</testCaseGuid>
+</TestCaseEntity>

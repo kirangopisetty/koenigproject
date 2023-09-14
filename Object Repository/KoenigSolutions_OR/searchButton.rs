@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>searchButton</name>
+   <tag></tag>
+   <elementGuidId>e3cc1db2-a42d-4c61-80fd-c30ccdfc8968</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='refresh']/div/div/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@class = 'srchBTN' and (text() = 'Start Search' or . = 'Start Search')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.srchBTN</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c92e1c06-ba7c-47f2-9106-2b7bcdb6915b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>srchBTN</value>
+      <webElementGuid>4a691f05-a5ee-43ca-8f70-1015bb58bfef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start Search</value>
+      <webElementGuid>531b8204-bf64-4786-a78d-11d8a58e0333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;refresh&quot;)/div[@class=&quot;srchBox&quot;]/div[@class=&quot;inptBox&quot;]/button[@class=&quot;srchBTN&quot;]</value>
+      <webElementGuid>eef12a3c-8415-4cd7-932f-ac35c6ae21ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='refresh']/div/div/button</value>
+      <webElementGuid>4dfeb2ef-6fc0-4abf-849e-ae6fdb1a53c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::button[1]</value>
+      <webElementGuid>7e5be75b-2071-40a0-8aed-88ad7006a9a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::button[1]</value>
+      <webElementGuid>bc2ee4dc-5049-4a53-8b7c-3c7fba789ae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flexible Timelines'])[1]/preceding::button[2]</value>
+      <webElementGuid>5e770df2-2c6b-4243-8f03-8ce70453683d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>54e4227c-02be-4ad7-ba9f-c77ebeca52fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Start Search' or . = 'Start Search')]</value>
+      <webElementGuid>db478fdf-f2d1-427c-ba92-17e77520e799</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

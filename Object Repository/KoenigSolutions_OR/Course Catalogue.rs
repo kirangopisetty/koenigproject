@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Course Catalogue</name>
+   <tag></tag>
+   <elementGuidId>2ad3505a-85c1-4d4c-937e-e1e60306177f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.sub-menu-big.sub_1 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='top-navi']/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>68eab28d-87ba-4d6f-9921-f98b867e03bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/corporate-it-training-courses</value>
+      <webElementGuid>fd03c2cd-0c23-4a3c-864b-0b43903235ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>f6535b07-3f73-4ffa-ae8e-c83bb11c32e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Course Catalogue</value>
+      <webElementGuid>94f1fb16-f20d-4ad8-bb3d-a3b85b93fe99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navi&quot;)/li[@class=&quot;sub-menu-big sub_1&quot;]/a[1]</value>
+      <webElementGuid>af6f0e07-559a-47e6-828f-75eca9738132</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='top-navi']/li[2]/a</value>
+      <webElementGuid>76b854bd-fa77-4844-ba66-d275d5ebba84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Course Catalogue')]</value>
+      <webElementGuid>b9f2bd53-b3c0-4667-826a-6596fc21069e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Methods'])[1]/following::a[1]</value>
+      <webElementGuid>2e2bcbb9-f1eb-42c2-bf8e-647b7d877932</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flexi'])[1]/following::a[2]</value>
+      <webElementGuid>3dade57e-04a0-4362-afe4-2e2341f08a53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Courses'])[1]/preceding::a[1]</value>
+      <webElementGuid>9cff3f24-6d27-44d8-b25e-6ea219e7e336</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Microsoft'])[1]/preceding::a[2]</value>
+      <webElementGuid>81fc69fa-ebb8-4fb7-90e5-79c465ae5331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/corporate-it-training-courses')]</value>
+      <webElementGuid>b4116db3-b7cc-4fbb-93cd-3677ea1eb347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[2]/a</value>
+      <webElementGuid>28713491-0635-4538-bb63-c67941e99837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/corporate-it-training-courses' and (text() = 'Course Catalogue' or . = 'Course Catalogue')]</value>
+      <webElementGuid>dcbcfcf0-1755-4348-92a7-d6cdff210866</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

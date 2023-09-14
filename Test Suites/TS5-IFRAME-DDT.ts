@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS5-IFRAME-DDT</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>1a451c6f-a9a2-49b0-9949-757531a2c961</testSuiteGuid>
+   <testCaseLink>
+      <guid>117b7caf-90e6-4c1e-b912-947a6f263e4a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC35-IFRAMES-VARIABLES-DDT</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>75d0147b-7cf3-4ce7-88b9-e0a0cc1c4d09</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/iFrameTestData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>75d0147b-7cf3-4ce7-88b9-e0a0cc1c4d09</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>iFrame1input</value>
+         <variableId>34e4f88c-ae41-4e4a-b837-b237c8b7ff2e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>75d0147b-7cf3-4ce7-88b9-e0a0cc1c4d09</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>iFrame2input</value>
+         <variableId>4a7f4112-d6c7-4513-bcfc-e4c17207605b</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>This is a test data file</description>
+   <name>parabankTestData</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator>COMMA</csvSeperator>
+   <dataFileGUID>316ee327-a2e2-409a-8c98-efc16e1e58ba</dataFileGUID>
+   <dataSourceUrl>C:\Users\kiran\Downloads\Katalon\TestData\parabankTestData.csv</dataSourceUrl>
+   <driver>CSV</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

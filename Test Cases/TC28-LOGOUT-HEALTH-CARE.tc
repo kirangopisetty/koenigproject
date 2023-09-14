@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case deals with logout activities of the AUT</description>
+   <name>TC28-LOGOUT-HEALTH-CARE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1af34dfa-38bf-4c7a-9674-a28de53ad709</testCaseGuid>
+</TestCaseEntity>

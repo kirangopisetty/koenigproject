@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>This contains test data</description>
+   <name>iFrameTestData</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>4b4967c8-e931-4cb5-8b5a-08d737751926</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Francis Kenneth</data>
+   <data>Kiran Trainer</data>
+   <data>Koenig Solutions</data>
+   <data>Katalon Automation</data>
+   <data>Singapore India</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>iFrame1input</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>iFrame2input</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>This is a test data file</description>
+   <name>healthcareTestData</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>a9292016-576e-4884-b050-ae101565a834</dataFileGUID>
+   <dataSourceUrl>C:\Users\kiran\Downloads\Katalon\TestData\healthCareTestData.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test-case uses variables for achieving data driven testing</description>
+   <name>TC33-CURA-VARIABLES-DDT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea44bf20-bdf8-4775-ab50-14090b93b395</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>daeec78d-e554-4439-9f48-6ef2f50c67f3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0da0b86a-c5bb-4e5f-9e1f-c2dcc18f6dc5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d984b3df-7750-46e5-9bef-a7e3c6c74d0b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8d2eda1b-8918-4ffc-8ce7-d1093b5a9016</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a89926b5-105b-492b-abcf-bbfaf4046b27</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>daeec78d-e554-4439-9f48-6ef2f50c67f3</id>
+      <masked>false</masked>
+      <name>UN</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>0da0b86a-c5bb-4e5f-9e1f-c2dcc18f6dc5</id>
+      <masked>false</masked>
+      <name>PWD</name>
+   </variable>
+   <variable>
+      <defaultValue>'Seoul CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>d984b3df-7750-46e5-9bef-a7e3c6c74d0b</id>
+      <masked>false</masked>
+      <name>Facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'29/09/2023'</defaultValue>
+      <description></description>
+      <id>8d2eda1b-8918-4ffc-8ce7-d1093b5a9016</id>
+      <masked>false</masked>
+      <name>VisitDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'General health checkup'</defaultValue>
+      <description></description>
+      <id>a89926b5-105b-492b-abcf-bbfaf4046b27</id>
+      <masked>false</masked>
+      <name>Comment</name>
+   </variable>
+</TestCaseEntity>

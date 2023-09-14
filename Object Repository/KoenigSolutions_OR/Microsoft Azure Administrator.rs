@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Microsoft Azure Administrator</name>
+   <tag></tag>
+   <elementGuidId>225e7947-a038-4f3d-9d4c-8381ac5ec3f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.second-sub > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='TrackMenuclick(9055,1)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f9cb4aeb-c875-4213-ad8e-35d6f47b83d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/microsoft-azure-administrator-training</value>
+      <webElementGuid>b7595112-4149-4d36-8c9f-1a3737d23473</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>TrackMenuclick(9055,1)</value>
+      <webElementGuid>ab144b3d-4a7f-4fb8-a403-fffa88c96b3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AZ-104T00-A: Microsoft Azure Administrator</value>
+      <webElementGuid>bce02af0-53be-4dc8-8ec3-ab8e077ae285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navi&quot;)/li[@class=&quot;sub-menu-big sub_1&quot;]/div[@class=&quot;wrapper sub-menu-hide&quot;]/ul[@class=&quot;scroll-pane first-sub&quot;]/li[@class=&quot;hasChildnew hasChildnew_1&quot;]/div[@class=&quot;wrapper&quot;]/ul[@class=&quot;second-sub&quot;]/li[1]/a[1]</value>
+      <webElementGuid>669bab64-c540-4a13-855a-95f29bcfc773</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='TrackMenuclick(9055,1)']</value>
+      <webElementGuid>0423736d-2c67-4e0e-96cf-54951f4c5a75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='top-navi']/li[2]/div/ul/li[2]/div/ul/li/a</value>
+      <webElementGuid>d637ed78-7c13-41c1-8cb8-389deda184cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'AZ-104T00-A: Microsoft Azure Administrator')]</value>
+      <webElementGuid>547f7b01-d179-4adb-aab8-09c37a414928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Microsoft'])[1]/following::a[1]</value>
+      <webElementGuid>9eac54b2-c01a-4404-851c-cde8b0cdd8cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Courses'])[1]/following::a[2]</value>
+      <webElementGuid>2d5da469-683e-477f-9aca-7de7a46188c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PL-300T00: Microsoft Power BI Data Analyst'])[1]/preceding::a[1]</value>
+      <webElementGuid>7d23e3d3-7589-44da-8272-c74edc212459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AZ-900T00: Microsoft Azure Fundamentals'])[1]/preceding::a[2]</value>
+      <webElementGuid>b026fdc3-ccf2-41f3-a738-b44e1bb65d20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/microsoft-azure-administrator-training')]</value>
+      <webElementGuid>159fbf51-9823-45ff-9748-27f6ed645a97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[2]/div/ul/li/a</value>
+      <webElementGuid>855f01e8-59e6-43bc-bcb4-d6e427c72d84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/microsoft-azure-administrator-training' and (text() = 'AZ-104T00-A: Microsoft Azure Administrator' or . = 'AZ-104T00-A: Microsoft Azure Administrator')]</value>
+      <webElementGuid>7e1fb2c1-6be9-450b-8b12-6123d1351cc5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
