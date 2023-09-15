@@ -17,37 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+CustomKeywords.'com.testwithhari.katalon.plugins.Gmail.sendEmail'('tiger@lion.com', password, 'deer@jungle.com', 'Welcome to Jungle', 
+    'This is a dense forest having wild animals & domestic animals.')
 
-WebUI.navigateToUrl(GlobalVariable.urlParabank)
+int emailsCount = CustomKeywords.'com.testwithhari.katalon.plugins.Gmail.getEmailsCount'('tiger@lion.com', password, 'INBOX')
 
-WebUI.setText(findTestObject('ParaBank_OR/firstName'), 'Koenig')
+System.out.println('The # of emails in INBOX folder are ' + emailsCount)
 
-WebUI.setText(findTestObject('ParaBank_OR/lastName'), 'Solutions')
+String latestEmailContent = CustomKeywords.'com.testwithhari.katalon.plugins.Gmail.readLatestEMailBodyContent'('tiger@lion.com', 
+    password, 'INBOX')
 
-WebUI.setText(findTestObject('ParaBank_OR/address'), 'Street#10')
+System.out.println('The latest email content in INBOX folder is ' + latestEmailContent)
 
-WebUI.setText(findTestObject('ParaBank_OR/city'), 'New Delhi')
-
-WebUI.setText(findTestObject('ParaBank_OR/state'), 'New Delhi')
-
-WebUI.setText(findTestObject('ParaBank_OR/zipCode'), '99999')
-
-WebUI.setText(findTestObject('ParaBank_OR/phoneNumber'), '89897676898')
-
-WebUI.setText(findTestObject('ParaBank_OR/SSN'), '1234567890')
-
-WebUI.setText(findTestObject('ParaBank_OR/username'), 'koenig5')
-
-WebUI.setText(findTestObject('ParaBank_OR/password'), 'koenig')
-
-WebUI.setText(findTestObject('ParaBank_OR/repeatedPassword'), 'koenig')
-
-WebUI.delay(5)
-
-WebUI.click(findTestObject('ParaBank_OR/registerButton'))
-
-WebUI.click(findTestObject('ParaBank_OR/logoutButton'))
-
-WebUI.closeBrowser()
+CustomKeywords.'com.testwithhari.katalon.plugins.Gmail.deleteAllEMails'('tiger@lion.com', password, 'INBOX')
 

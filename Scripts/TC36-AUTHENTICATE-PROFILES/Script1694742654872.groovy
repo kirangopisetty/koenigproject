@@ -19,35 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.urlParabank)
+WebUI.navigateToUrl(GlobalVariable.url)
 
-WebUI.setText(findTestObject('ParaBank_OR/firstName'), 'Koenig')
-
-WebUI.setText(findTestObject('ParaBank_OR/lastName'), 'Solutions')
-
-WebUI.setText(findTestObject('ParaBank_OR/address'), 'Street#10')
-
-WebUI.setText(findTestObject('ParaBank_OR/city'), 'New Delhi')
-
-WebUI.setText(findTestObject('ParaBank_OR/state'), 'New Delhi')
-
-WebUI.setText(findTestObject('ParaBank_OR/zipCode'), '99999')
-
-WebUI.setText(findTestObject('ParaBank_OR/phoneNumber'), '89897676898')
-
-WebUI.setText(findTestObject('ParaBank_OR/SSN'), '1234567890')
-
-WebUI.setText(findTestObject('ParaBank_OR/username'), 'koenig5')
-
-WebUI.setText(findTestObject('ParaBank_OR/password'), 'koenig')
-
-WebUI.setText(findTestObject('ParaBank_OR/repeatedPassword'), 'koenig')
+WebUI.authenticate(GlobalVariable.url, GlobalVariable.un, GlobalVariable.pwd, 10)
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('ParaBank_OR/registerButton'))
+WebUI.verifyTextPresent('true', false, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('ParaBank_OR/logoutButton'))
+WebUI.takeScreenshot("C:\\Users\\kiran\\Downloads\\Katalon\\s1.png")
 
 WebUI.closeBrowser()
 

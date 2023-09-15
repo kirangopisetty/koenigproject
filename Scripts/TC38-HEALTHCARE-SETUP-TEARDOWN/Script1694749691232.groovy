@@ -17,10 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.deleteAllCookies()
-
 WebUI.navigateToUrl(GlobalVariable.urlCura)
 
 WebUI.focus(findTestObject('CURA_OR/UN'))
@@ -90,8 +86,4 @@ WebUI.click(findTestObject('CURA_OR/logoutButton'))
 WebUI.takeFullPageScreenshot('C:\\Users\\kiran\\Downloads\\Katalon\\loggedOut.png')
 
 WebUI.verifyTextPresent('We Care About Your Health', false, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.deleteAllCookies()
-
-WebUI.closeBrowser()
 

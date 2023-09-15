@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC40-GMAIL-PLUGIN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46b8e973-6da4-4696-8ff2-42d3d2214874</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f6d83500-d4d6-46cc-8cb7-aad196a68d93</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'tiger'</defaultValue>
+      <description></description>
+      <id>f6d83500-d4d6-46cc-8cb7-aad196a68d93</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

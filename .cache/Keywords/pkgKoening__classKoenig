@@ -1,0 +1,31 @@
+{
+  "keywordFileContentHash": "E6D091F4BC4615EB75A5DF909A15A000",
+  "keywordClasses": [
+    {
+      "name": "pkgKoening.classKoenig",
+      "keywordMethods": [
+        {
+          "name": "browserInit",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "browserExit",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "browserCleanup",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "browserResize",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

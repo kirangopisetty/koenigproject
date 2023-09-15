@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
+WebUI.navigateToUrl(GlobalVariable.urlHRM)
 
 WebUI.focus(findTestObject('ORANGE-HRM-OR/UN'))
 

@@ -17,37 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.navigateToUrl('https://www.koenig-solutions.com/')
 
-WebUI.navigateToUrl(GlobalVariable.urlParabank)
+WebUI.setViewPortSize(550, 600)
 
-WebUI.setText(findTestObject('ParaBank_OR/firstName'), 'Koenig')
+WebUI.delay(4)
 
-WebUI.setText(findTestObject('ParaBank_OR/lastName'), 'Solutions')
+WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('ParaBank_OR/address'), 'Street#10')
-
-WebUI.setText(findTestObject('ParaBank_OR/city'), 'New Delhi')
-
-WebUI.setText(findTestObject('ParaBank_OR/state'), 'New Delhi')
-
-WebUI.setText(findTestObject('ParaBank_OR/zipCode'), '99999')
-
-WebUI.setText(findTestObject('ParaBank_OR/phoneNumber'), '89897676898')
-
-WebUI.setText(findTestObject('ParaBank_OR/SSN'), '1234567890')
-
-WebUI.setText(findTestObject('ParaBank_OR/username'), 'koenig5')
-
-WebUI.setText(findTestObject('ParaBank_OR/password'), 'koenig')
-
-WebUI.setText(findTestObject('ParaBank_OR/repeatedPassword'), 'koenig')
-
-WebUI.delay(5)
-
-WebUI.click(findTestObject('ParaBank_OR/registerButton'))
-
-WebUI.click(findTestObject('ParaBank_OR/logoutButton'))
-
-WebUI.closeBrowser()
+WebUI.delay(4)
 
